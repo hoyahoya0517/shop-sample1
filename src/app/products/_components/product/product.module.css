@@ -1,0 +1,8 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.product button {
+  width: 60px;
+}
